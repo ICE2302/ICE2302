@@ -1,17 +1,22 @@
-### Hi there 👋
+## Hi Guys！ 👋
+### My profile are as following... 
 
-<!--
-**ICE2302/ICE2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on C++.
+- 🌱 I’m currently learning DB.
+- 👯 I’m looking to guidance on Data Structure.
+- 💬 Ask me about C++.
+- 📫 How to reach me: [My CSDN Account](https://blog.csdn.net/m0_52709408?spm=1000.2115.3001.5343)
+- 😄 Pronouns: ICE
+- ⚡ Hobby:Fiction
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=ICE2302&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+![Rainbow ICE2302's github stats](https://github-readme-stats.vercel.app/api?username=ICE2302&show_icons=true&theme=material-palenight)  
+![ICE2302's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ICE2302&layout=compact&hide_border=true&langs_count=5&theme=material-palenight)  
+#### 程序语言
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-C-007396?style=flat-square&logo=c&logoColor=ffffff)](https://reactjs.org/)
+
+
+
+
