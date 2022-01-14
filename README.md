@@ -1,5 +1,5 @@
 ## Hi Guys！ 👋
-### My profile are as following... 
+### My profile are as follows... 
 
 - 🔭 I’m currently working on C++.
 - 🌱 I’m currently learning DB.
