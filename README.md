@@ -10,7 +10,7 @@
 - ⚡ Hobby:Fiction
 
 
-![Rainbow ICE2302's github stats](https://github-readme-stats.vercel.app/api?username=ICE2302&show_icons=true&theme=flag-india&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&include_all_commits=true)
+(![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICE2302&theme=flag-india&bg_color=DEG&&include_all_commits=true))
 ### 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ICE2302&repo=Working-on-C&theme=flag-india&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ICE2302&repo=Java-Practise&theme=flag-india&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
@@ -23,6 +23,7 @@
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-C-007396?style=flat-square&logo=c&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=C++&logoColor=ffffff)](https://reactjs.org/)
 
 
 
