@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning DB.
 - 👯 I’m looking to guidance on Data Structure.
 - 💬 Ask me about C++.
-- 📫 How to reach me: [My CSDN Account](https://blog.csdn.net/m0_52709408?spm=1000.2115.3001.5343)
+- 📫 How to reach me: [My CSDN HomPage](https://blog.csdn.net/m0_52709408?spm=1000.2115.3001.5343)
 - 😄 Pronouns: ICE
 - ⚡ Hobby:Fiction
 
