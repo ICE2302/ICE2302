@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning QT.
 - 👯 I’m looking to guidance on linux and job searching.
 - 💬 Ask me about C++.
-- 📫 How to reach me: [My CSDN HomPage](https://blog.csdn.net/m0_52709408?spm=1000.2115.3001.5343)
+- 📫 How to reach me: [My CSDN HomPage](https://blog.csdn.net/m0_52709408?spm=1000.2115.3001.5343).You also can find me in [My HomePage](http://ice2302.xyz)
 - 😄 Pronouns: ICE
 - ⚡ Hobby:Fiction
 
