@@ -1,7 +1,7 @@
 ## Hi Guys！ 👋
 ### My profile are as follows... 
 
-- 🔭 I’m currently working on C++.
+- 🔭 I’m working on C++.
 - 🌱 I’m currently learning QT.
 - 👯 I’m looking to guidance on linux and job searching.
 - 💬 Ask me about C++.
